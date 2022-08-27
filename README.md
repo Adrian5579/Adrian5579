@@ -1,5 +1,5 @@
-- 👋 Olá meu nome é @Adrian5579
-- :+1:Meu email de contato é adrian.jesus.silva@escola.pr.gov.br 
+- 👋 Olá meu nome é **@Adrian5579**
+- :+1:Meu email de contato é [email](adrian.jesus.silva@escola.pr.gov.br)
 - :eyes:Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 
